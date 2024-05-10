@@ -9,7 +9,7 @@ const brace = '[Portfolio of Opportunities]'
 export function Hero (){
     return(
         <div className="">
-            <div className="">
+            <div className="px-[20px]">
                 <h1 className="text-center text-[16px] leading-[24px] font-medium text-[#fff] bg-water bg-no-repeat bg-cover bg-center h-[200px] px-[30px] py-[20px] lg:text-[32px] lg:leading-[40px] lg:px-[120px] lg:h-[300px] lg:py-[40px]">
                     <p className="pt-20">From policy design and strategy development to</p>
                     <p> blue economy innovations and investments to blue prosperity</p>
@@ -26,7 +26,7 @@ export function Hero (){
                 
             <div className="bg-[#F2F2F2] text-center mt-8 mb-8 text-[#fff] px-[20px] py-[20px]">
                 <h1 className="text-center text-[#000] pb-[20px] font-bold text-[20px]">we work across the blue economy value chain</h1>
-                <div className=" w-[1200px] grid lg:grid-cols-3 md:grid-cols-2 gap-5 mx-auto items-center justify-center container">
+                <div className=" w-full grid lg:grid-cols-3 md:grid-cols-2 gap-5 mx-auto items-center justify-center container">
 
                         <div className="flex justify-center items-center max-w-sm h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
                             <div className="px-6 py-4">                            

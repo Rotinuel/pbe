@@ -25,7 +25,7 @@ export function Navbar(){
             </div>
             <div className="flex gap-x-5">
                 <p className="hidden lg:block font-medium text-[#18A9EC]">CONTACT US</p>
-                <div className="flex items-center gap-x-2">
+                <div className="flex items-center gap-x-2 px-2">
                     <Image src={Menu} alt="Menu Button" className="lg:hidden" />
                 </div>
             </div>
