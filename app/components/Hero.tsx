@@ -10,7 +10,7 @@ export function Hero (){
     return(
         <div className="">
             <div className="">
-                <h1 className="text-center text-[32px] leading-[40px] font-medium text-[#fff] bg-water bg-no-repeat bg-cover bg-center h-[300px] px-[120px] py-[40px]">
+                <h1 className="text-center text-[16px] leading-[24px] font-medium text-[#fff] bg-water bg-no-repeat bg-cover bg-center h-[200px] px-[30px] py-[20px] lg:text-[32px] lg:leading-[40px] lg:px-[120px] lg:h-[300px] lg:py-[40px]">
                     <p className="pt-20">From policy design and strategy development to</p>
                     <p> blue economy innovations and investments to blue prosperity</p>
                 </h1>
