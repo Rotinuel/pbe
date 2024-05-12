@@ -8,7 +8,7 @@ const brace = '[Portfolio of Opportunities]'
 
 export function Hero (){
     return(
-        <div className="pt-4">
+        <div className="pt-4 overflow-hidden">
             <div className="px-[20px]">
                 <div className="text-center text-[16px] leading-[24px] font-medium font-xs text-[#fff] bg-water bg-no-repeat bg-cover bg-center h-[240px] px-[30px] py-[20px] lg:text-[32px] lg:leading-[40px] lg:px-[120px] lg:h-[300px] lg:py-[40px]">
                     <p className="pt-20">From policy design and strategy development to blue economy innovations and investments to blue prosperity</p>
