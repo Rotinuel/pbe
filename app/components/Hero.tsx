@@ -8,17 +8,12 @@ const brace = '[Portfolio of Opportunities]'
 
 export function Hero (){
     return(
-        <div className="">
+        <div className="pt-4">
             <div className="px-[20px]">
-                <h1 className="text-center text-[16px] leading-[24px] font-medium text-[#fff] bg-water bg-no-repeat bg-cover bg-center h-[200px] px-[30px] py-[20px] lg:text-[32px] lg:leading-[40px] lg:px-[120px] lg:h-[300px] lg:py-[40px]">
-                    <p className="pt-20">From policy design and strategy development to</p>
-                    <p> blue economy innovations and investments to blue prosperity</p>
-                </h1>
-                <div className="text-center text-[20px] pt-6 px-[120px] font-medium justify-center items-center">
-                    <p>We are focused on catalyzing <b>shared and sustainable blue prosperity in Nigeria</b>
-                    </p> <p>Collaborating with public and private sector stakeholders while leading the way in stimulating</p>
-                    <p> Blue economy innovations and facilitating global investments for nation-wide impact.</p>
+                <div className="text-center text-[16px] leading-[24px] font-medium font-xs text-[#fff] bg-water bg-no-repeat bg-cover bg-center h-[240px] px-[30px] py-[20px] lg:text-[32px] lg:leading-[40px] lg:px-[120px] lg:h-[300px] lg:py-[40px]">
+                    <p className="pt-20">From policy design and strategy development to blue economy innovations and investments to blue prosperity</p>
                 </div>
+                    <p className="text-center pt-6 font-medium">We are focused on catalyzing <b>shared and sustainable blue prosperity in Nigeria</b> Collaborating with public and private sector stakeholders while leading the way in stimulating Blue economy innovations and facilitating global investments for nation-wide impact.</p>
                 <div className="flex w-full justify-center pt-8">
                     <button className="bg-[#0070C2]  py-4 px-4 text-[#FFFFFF] rounded-[4px] underline">Learn more about us</button>
                 </div>
