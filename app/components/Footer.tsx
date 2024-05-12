@@ -8,7 +8,7 @@ export function Footer (){
                     <p className="text-[11px] lg:text-[20px]">+234 (0) 806 812 9028, +234 (0) 706 643 3477</p>
                     <p className="text-[11px] lg:text-[20px]">info@premiumblueeconomy.com</p>
                 </div>
-                <div className="text-[12px] pt-6 pb-6 text-justify">
+                <div className="text-[12px] pt-6 pb-6 text-justify lg:text-[20px]">
                     <p>We acknowledge the Traditional Owners of the land, sea and waters, where we live and work. We acknowledge their continuing connection to culture and pay our respects to Elders past and present. We strive to honour this connection through our work and contribute to the continuation of this legacy. We honour their past, respect the presentand look forward to a reconciled and prosperous future for all.</p>
 
                 </div>
