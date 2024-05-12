@@ -14,7 +14,7 @@ export function Hero (){
                     <p className="pt-20">From policy design and strategy development to blue economy innovations and investments to blue prosperity</p>
                 </div>
                 <div className="h-16px">
-                    <p className="text-justify pt-6 font-medium">We are focused on catalyzing <b>shared and sustainable blue prosperity in Nigeria</b> Collaborating with public and private sector stakeholders while leading the way in stimulating Blue economy innovations and facilitating global investments for nation-wide impact.</p>
+                    <p className="text-justify lg:text-center pt-6 font-medium">We are focused on catalyzing <b>shared and sustainable blue prosperity in Nigeria</b> Collaborating with public and private sector stakeholders while leading the way in stimulating Blue economy innovations and facilitating global investments for nation-wide impact.</p>
                 <div className="flex w-full justify-center pt-8">
                     <button className="bg-[#0070C2]  py-4 px-4 text-[#FFFFFF] rounded-[4px] underline">Learn more about us</button>
                 </div>
