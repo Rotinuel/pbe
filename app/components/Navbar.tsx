@@ -16,7 +16,7 @@ export function Navbar(){
             <div className="flex items-center">
                 <Image src={LogoA} alt="Logo" className="object-contain max-h-16 w-48"/>
                 <div className="hidden lg:flex pl-[512px] gap-x-[56px]">
-                    {navLinks.map((item, index) =>(
+                    {navLinks.map((item, index) => (
                         <p className="text-[#18A9EC] font-medium" key={index}>
                             {item.name}
                         </p>
