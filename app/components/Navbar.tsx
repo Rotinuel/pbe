@@ -14,7 +14,7 @@ export function Navbar(){
     return(
         <nav className="flex w-full items-center justify-between py-[1px] fixed top-0 shadow-md bg-[#F7F7F7]">
             <div className="flex items-center">
-                <Image src={LogoA} alt="Logo" className="object-contain max-h-16 w-48"/>
+                <Image src={LogoA} alt="Logo" className="object-contain max-h-16 w-32"/>
                 <div className="hidden lg:flex pl-[512px] gap-x-[56px]">
                     {navLinks.map((item, index) =>(
                         <p className="text-[#18A9EC] font-medium" key={index}>

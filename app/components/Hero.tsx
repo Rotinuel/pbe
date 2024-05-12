@@ -24,7 +24,7 @@ export function Hero (){
                 
             <div className="bg-[#F2F2F2] text-center mt-8 mb-8 text-[#fff] px-[20px] py-[20px]">
                 <h1 className="text-center text-[#000] pb-[20px] font-bold text-[20px]">we work across the blue economy value chain</h1>
-                <div className=" w-full grid lg:grid-cols-3 md:grid-cols-2 gap-5 mx-auto items-center justify-center container">
+                <div className="w-full grid lg:grid-cols-3 md:grid-cols-2 gap-5 mx-auto items-center justify-center">
 
                         <div className="flex justify-center items-center max-w-sm h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
                             <div className="px-6 py-4">                            
@@ -76,7 +76,7 @@ export function Hero (){
                 </div>
             </div>
 
-            <p className="px-[200px] font-medium text-[#000]">STRATEGIC ADOPTION AND PRAGMATIC ADAPTATION</p>
+            <p className="text-center text-12 font-medium text-[#000]">STRATEGIC ADOPTION AND PRAGMATIC ADAPTATION</p>
             <div className="relative flex h-full w-full justify-start px-[200px]">
                 <Image src={Pauli} alt="" className="min-h-[10px] object-cover"/>
             </div>
