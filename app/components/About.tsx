@@ -20,7 +20,7 @@ export function About (){
             <h1 className="font-bold pb-4 text-center">Our Vision</h1>
             <p className="pb-4 leading-[30px] text-justify">
                 <FaQuoteLeft className="top"/>
-                To be <em><b>the leading &apos'blue economy&apos' partner of choice</b></em> for public and private sector leaders.<FaQuoteRight className="bottom"/></p>
+                To be <em><b>the leading &apos;blue economy &apos; partner of choice</b></em> for public and private sector leaders.<FaQuoteRight className="bottom"/></p>
             <h1 className="font-bold pt-8 pb-4 text-center">Our Mission</h1>
             
             <p className="leading-[30px] pb-4 text-justify"><FaQuoteLeft className="top"/>To <em><b>catalyze Nigeria's shared and sustainble blue prosperity,</b></em> stimulating blue economy innovations while facilitating local and foreign direct investments and global strategic partnerships for blue economy initiatives across the country.<FaQuoteRight className="bottom"/></p>
