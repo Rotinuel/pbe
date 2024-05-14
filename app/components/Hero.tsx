@@ -58,7 +58,7 @@ export function Hero (){
                         </div>
                         </div>
 
-                        <div className="flex justify-center items-center max-w-md h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
+                        <div className="flex justify-center items-center max-w-md w-80 h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
                         <div className="px-6 py-4">                            
                             <div className="font-bold text-xl">
                                 Ecological Research, Analysis & Mapping {brace}
