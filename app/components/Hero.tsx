@@ -22,7 +22,7 @@ export function Hero (){
                     
             </div>
                 
-            <div className="bg-[#F2F2F2] text-center mt-8 mb-8 text-[#fff] px-[20px] py-[20px]">
+            <div className="bg-[#F2F2F2] text-center mt-8 mb-12 text-[#fff] px-[20px] py-[20px]">
                 <h1 className="text-center text-[#000] pb-[20px] font-bold text-[20px]">we work across the blue economy value chain</h1>
                 <div className="w-full grid lg:grid-cols-3 md:grid-cols-2 gap-5 gap-x-3 m-auto items-stretch justify-items-center">
 
