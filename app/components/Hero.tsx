@@ -24,9 +24,9 @@ export function Hero (){
                 
             <div className="bg-[#F2F2F2] text-center mt-8 mb-8 text-[#fff] px-[20px] py-[20px]">
                 <h1 className="text-center text-[#000] pb-[20px] font-bold text-[20px]">we work across the blue economy value chain</h1>
-                <div className="w-full grid lg:grid-cols-3 md:grid-cols-2 gap-5 mx-auto items-center justify-center">
+                <div className="w-full grid lg:grid-cols-3 md:grid-cols-2 gap-5 items-center justify-items-center">
 
-                        <div className="flex justify-center items-center max-w-sm h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
+                        <div className="flex justify-center items-center max-w-md h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
                             <div className="px-6 py-4">                            
                                 <div className="font-bold text-xl">
                                     Policy Advisory, Advocacy & Strategy Development
@@ -34,7 +34,7 @@ export function Hero (){
                             </div>
                         </div>
 
-                        <div className="flex justify-center items-center max-w-sm h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
+                        <div className="flex justify-center items-center max-w-md h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
                             <div className="px-6 py-4">                            
                                 <div className="font-bold text-xl">
                                 Policy Management, Strategic Execution & Project Governance
@@ -42,7 +42,7 @@ export function Hero (){
                             </div>
                         </div>
 
-                        <div className=" flex justify-center items-center max-w-sm h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
+                        <div className=" flex justify-center items-center max-w-md h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
                         <div className="px-6 py-4">                            
                             <div className="font-bold text-xl">
                                 Ecosystems Regeneration & Biodiversity Restoration
@@ -50,7 +50,7 @@ export function Hero (){
                         </div>
                         </div>
 
-                        <div className="flex justify-center items-center max-w-sm h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
+                        <div className="flex justify-center items-center max-w-md h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
                         <div className="px-6 py-4">                            
                             <div className="font-bold text-xl">
                                 Project Finance & Foreign Direct Investment
@@ -58,7 +58,7 @@ export function Hero (){
                         </div>
                         </div>
 
-                        <div className="flex justify-center items-center max-w-sm h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
+                        <div className="flex justify-center items-center max-w-md h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
                         <div className="px-6 py-4">                            
                             <div className="font-bold text-xl">
                                 Ecological Research, Analysis & Mapping {brace}
@@ -66,10 +66,10 @@ export function Hero (){
                         </div>
                         </div>
 
-                        <div className="max-w-sm flex h-36 rounded overflow-hidden shadow-lg bg-[#4373C5] justify-center items-center">
-                        <div className="flex px-6 py-4">                            
+                        <div className="flex justify-center items-center max-w-md h-36 rounded overflow-hidden shadow-lg bg-[#4373C5]">
+                        <div className="flex px-28 py-4">                            
                             <div className="font-bold text-xl">
-                            Monitoring & Evaluation
+                                   Monitoring & Evaluation
                             </div>
                         </div>
                         </div>
