@@ -23,7 +23,7 @@ export function About (){
                 To be <em><b>the leading &#39;blue economy &#39; partner of choice</b></em> for public and private sector leaders.<FaQuoteRight className="bottom"/></p>
             <h1 className="font-bold pt-8 pb-4 text-center">Our Mission</h1>
             
-            <p className="leading-[30px] pb-4 text-justify"><FaQuoteLeft className="top"/>To <em><b>catalyze Nigeria's shared and sustainble blue prosperity,</b></em> stimulating blue economy innovations while facilitating local and foreign direct investments and global strategic partnerships for blue economy initiatives across the country.<FaQuoteRight className="bottom"/></p>
+            <p className="leading-[30px] pb-4 text-justify"><FaQuoteLeft className="top"/>To <em><b>catalyze Nigeria&apos;s shared and sustainble blue prosperity,</b></em> stimulating blue economy innovations while facilitating local and foreign direct investments and global strategic partnerships for blue economy initiatives across the country.<FaQuoteRight className="bottom"/></p>
 
             <div>
                 <p className="pb-4 pt-12">GLOBAL STRATEGIC PARTNERSHIP</p>
