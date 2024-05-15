@@ -28,7 +28,7 @@ export function About (){
             <div>
                 <p className="pb-4 pt-12">GLOBAL STRATEGIC PARTNERSHIP</p>
                 {gspLinks.map((item, index) => (
-                        <Link className="text-[#18A9EC] flex py-2 font-medium underline" href={item.href} key={index}>
+                        <Link className="text-[#18A9EC] flex py-3 font-medium underline" href={item.href} key={index}>
                             {item.name}
                         </Link>))}
             </div>
