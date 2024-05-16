@@ -1,12 +1,14 @@
-import { Navbar } from "./Navbar";
-import { Footer } from "./Footer";
+import { Navbar } from "../components/Navbar";
+import { Footer } from "../components/Footer";
 
 
 function People(){
     return (
-        <div className="container px-6 py-6">
+        <div className="h-screen flex flex-col  justify-between">
+            <Navbar/>
+            <div className="container px-6 py-6 pt-24 leading-[32px]">
             <h1>OUR PEOPLE</h1>
-            <p>Global Advisory Board</p>
+            <h2>Global Advisory Board</h2>
         
         Technical Partners
         Prof. Gunter Pauli
@@ -20,6 +22,9 @@ function People(){
         Staff Members
         Grace Eluma
         </div>
+        <Footer/>
+        </div>
+        
     )
 }
 
