@@ -1,8 +1,6 @@
 import Link from "next/link";
-
 import {FaQuoteLeft, FaQuoteRight} from "react-icons/fa"
-import { Navbar } from "../components/Navbar";
-import { Footer } from "../components/Footer";
+
 
 const d = '[‘disciple’]'; 
 
@@ -15,7 +13,6 @@ const gspLinks = [
 function About (){
     return (
         <div>
-            <Navbar />
             <div className=" pt-20 px-8 mt-2">
                 <h1 className="text-[#18A9EC] text-[20px] text-center text pb-4">About Us</h1>
                 <h1 className="pb-4">History</h1>
@@ -38,7 +35,6 @@ function About (){
                 </div>   
                 </div>
             </div>
-            <Footer />
         </div>
         
     )
