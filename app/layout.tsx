@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Premium Blue Economy",
-  description: "Built by Okhuarobo Emmanuel",
+  description: "Catalyzing shared and sustainable blue prosperity",
 };
 
 export default function RootLayout({
