@@ -61,8 +61,8 @@ const dataList = [
     },
     {
         img: "/assets/mohammed.jpg",
-        name: "Mohammed Adelodun",
-        text: "esq",
+        name: "Mohammed Adelodun esq",
+        text: "",
         position: "Legal Advisory Board"
     },
 ]
