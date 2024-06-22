@@ -18,7 +18,7 @@ const dataList = [
         position: "Executive Member"
     },
     {
-        img: "",
+        img: "/assets/victor.jpg",
         name: "Victor Ayo Oritedi",
         text: "Director, Business Development",
         position: "Executive Member"
@@ -35,12 +35,12 @@ const dataList = [
         text: "",
         position: " Staff Members"
     },
-    {
-        img: "",
-        name: "Prof. Gunter Pauli",
-        text: "Technical Partner",
-        position: "Global Advisory Board"
-    },
+    // {
+    //     img: "",
+    //     name: "Prof. Gunter Pauli",
+    //     text: "Technical Partner",
+    //     position: "Global Advisory Board"
+    // },
 ]
 
 
