@@ -20,7 +20,7 @@ function portfolio() {
         Stewardship: Projects focused on protecting marine biodiversity and
         ecosystems. Unilorin signs MOU with Swiss firm, one other for blue
         economy partnership
-        <Link href="">
+        <Link href="https://nairametrics.com/2024/02/07/unilorin-signs-mou-with-swiss-firm-one-other-for-blue-economy-partnership/"> Unilorin Signs MOU with Swiss firm, one other for blue economy partnership
         
         </Link>
         </p>
