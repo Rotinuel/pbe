@@ -70,8 +70,8 @@ const dataList = [
 
 function People(){
     return (
-        <div className="h-screenflex flex-col justify-between">
-            <div className="mx-auto py-24 pt-24 leading-[32px]">
+        <div className="h-screenflex flex-col justify-between px-8">
+            <div className="mx-auto py-12 pt-24 leading-[32px]">
                 <h1 className="text-center text-3xl pt-2 mb-8">OUR PEOPLE</h1>
                 <div className="grid lg:grid-cols-3 md:grid-cols-4 grid-cols-1 gap-4">
                     
