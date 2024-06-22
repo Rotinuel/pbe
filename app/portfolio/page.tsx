@@ -1,11 +1,14 @@
 import React from "react";
 import Link from "next/link";
 
+const cat = [
+  {name:"MOU", href:"https://nairametrics.com/2024/02/07/unilorin-signs-mou-with-swiss-firm-one-other-for-blue-economy-partnership/"},
+]
+
 function portfolio() {
   return (
-    <div className="mx-auto py-24 px-8">
-      <div className="grid lg:grid-cols-3"></div>
-      <p className="leading-[32px] text-justify">
+    <div className="mx-auto py-24 lg:px-36 px-8">
+      <p className="leading-[48px] text-justify lg:pt-18">
         Premium Blue Economy Innovations and Investments Limited is dedicated to
         driving sustainable marine and blue economy initiatives in Nigeria.
         Founded in Abuja, the company brings together a diverse team of experts
@@ -20,8 +23,7 @@ function portfolio() {
         Stewardship: Projects focused on protecting marine biodiversity and
         ecosystems. Unilorin signs MOU with Swiss firm, one other for blue
         economy partnership
-        <Link href="https://nairametrics.com/2024/02/07/unilorin-signs-mou-with-swiss-firm-one-other-for-blue-economy-partnership/"> Unilorin Signs MOU with Swiss firm, one other for blue economy partnership
-        
+        <Link href=''>        
         </Link>
         </p>
         

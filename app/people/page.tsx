@@ -18,6 +18,12 @@ const dataList = [
         position: "Executive Member"
     },
     {
+        img: "/assets/abiodun.jpg",
+        name: "Abiodun Sanusi",
+        text: "Head Investment",
+        position: "Executive Member"
+    },
+    {
         img: "/assets/victor.jpg",
         name: "Victor Ayo Oritedi",
         text: "Director, Business Development",
@@ -30,17 +36,35 @@ const dataList = [
         position: "Executive Member"
     },
     {
+        img: "/assets/Axis.jpg",
+        name: "Axis Ribs",
+        text: "Head International Blue Education",
+        position: "Executive Member"
+    },
+    {
+        img: "/assets/Abdulkadir.jpg",
+        name: "Abdulkadir Abdulrahman",
+        text: "Head Data Management and Machine Learning",
+        position: "Executive Member"
+    },
+    {
+        img: "/assets/ibrahim.jpg",
+        name: "Al Amin Ibrahim Al Amin",
+        text: "Head Climate Investment and Sustainability",
+        position: "Executive Member"
+    },
+    {
         img: "/assets/grace.jpg",
         name: "Grace Eluma",
         text: "",
         position: " Staff Members"
     },
-    // {
-    //     img: "",
-    //     name: "Prof. Gunter Pauli",
-    //     text: "Technical Partner",
-    //     position: "Global Advisory Board"
-    // },
+    {
+        img: "/assets/mohammed.jpg",
+        name: "Mohammed Adelodun",
+        text: "esq",
+        position: "Legal Advisory Board"
+    },
 ]
 
 
