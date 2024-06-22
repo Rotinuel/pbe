@@ -49,7 +49,7 @@ function People(){
         <div className="h-screenflex flex-col justify-between">
             <div className="mx-auto py-24 pt-24 leading-[32px]">
                 <h1 className="text-center text-3xl pt-2 mb-8">OUR PEOPLE</h1>
-                <div className="grid lg:grid-cols-6 md:grid-cols-4 grid-cols-1 gap-4">
+                <div className="grid lg:grid-cols-3 md:grid-cols-4 grid-cols-1 gap-4">
                     
                     {dataList.map((card, i) => (
                         <div key={i} className="shadow-lg rounded-lg mx-auto">
