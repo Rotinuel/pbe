@@ -1,10 +1,8 @@
-import { Footer } from "../components/Footer";
-import { Navbar } from "../components/Navbar";
+
 
 function Business(){
     return(
        <div className="h-screen flex flex-col  justify-between">
-        <Navbar />
        <div className="container pt-20 px-10 py-4 justify-between flex flex-col">
             <h1 className="text-[16px] font-medium pb-4">BUSINES POLICY, PROJECTS & PROGRAMS</h1>
             <div className="leading-[48px]">
@@ -16,7 +14,6 @@ function Business(){
             <li>Blue Campuses</li>
             </div>
         </div>
-        <Footer />
        </div>
     )
 }
