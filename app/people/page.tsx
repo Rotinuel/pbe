@@ -7,7 +7,7 @@ const dataList = [
     },
     {
         img: "/assets/Olushola.jpg",
-        name: "Sola A. Gegele",
+        name: "Gegele Yahya Olushola",
         text: "Co-founder/CEO",
         position: "Executive Member"
     },
@@ -30,8 +30,8 @@ const dataList = [
         position: "Executive Member"
     },
     {
-        img: "/assets/adulraham.jpg",
-        name: "AbdulRahman Odewale",
+        img: "/assets/tunde.jpg",
+        name: "Tunde Ahmed",
         text: "Team Lead, Special Projects",
         position: "Executive Member"
     },
