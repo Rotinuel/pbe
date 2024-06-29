@@ -1,8 +1,10 @@
 import React from "react";
 import Link from "next/link";
 
-const cat = [
-  {name:"MOU", href:"https://nairametrics.com/2024/02/07/unilorin-signs-mou-with-swiss-firm-one-other-for-blue-economy-partnership/"},
+const catList = [
+  {img:"/assets/pot1.jpeg"},
+  {img:"/assets/pot2.jpeg"},
+  {img:"/assets/pot3.jpeg"},
 ]
 
 function portfolio() {
@@ -23,9 +25,24 @@ function portfolio() {
         Stewardship: Projects focused on protecting marine biodiversity and
         ecosystems. Unilorin signs MOU with Swiss firm, one other for blue
         economy partnership
-        <Link href=''>        
-        </Link>
         </p>
+        <div className="flex-col justify-between px-8">
+          <div className="mx-auto pt-8">
+            <div className="grid lg:grid-cols-3 md:grid-cols-4 grid-cols-1 gap-4">
+                {catList.map((card, i)=>(
+                  <div key={i} className="shadow-lg rounded-lg mx-auto">
+                    <img className="rounded-t-lg" src={card.img} alt=""/>
+                  </div>
+                ))}
+            </div>
+          </div>
+        </div>
+        <div>
+        <button>
+        <a className="pt-12 px-8" href='https://nairametrics.com/2024/02/07/unilorin-signs-mou-with-swiss-firm-one-other-for-blue-economy-partnership/'> click to see more       
+        </a>
+        </button>
+        </div>
         
     </div>
   );
